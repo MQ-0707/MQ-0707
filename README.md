@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**MQ-0707/MQ-0707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 😄 你好~ 我是MQ，工作在上海。
 喜爱跑步，读书，爬山，户外，编程。
@@ -16,7 +15,8 @@
 
 
 
-
+<!--
+**MQ-0707/MQ-0707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

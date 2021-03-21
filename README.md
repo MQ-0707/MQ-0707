@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+## 我的 GitHub
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=MQ-0707&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 
 😄 你好~ 我是MQ，工作在上海。
@@ -11,12 +13,6 @@
 
 
 做你该做的事情,并接受事与愿违.
-
-
-## 我的 GitHub
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=MQ-0707&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
-
-
 
 
 <!--

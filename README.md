@@ -1,18 +1,22 @@
+[![github-profile](https://user-images.githubusercontent.com/74593661/222945294-9364469c-033c-4ebc-9a57-d88de9a5bafa.svg)](https://www.calligrapher.ai/)
+
+
 ### Hi there 👋
 
-## 我的 GitHub
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=MQ-0707&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+I'm Mickey, a back-end development.    
+   
+- 🏃‍ I like running and cycling   
+- 🔭 I’m currently working on bank
+- 🌱 I’m currently learning Microservices        
+- 🔧 My Power Tools: </br>   
+![idea](https://img.shields.io/badge/idea-idea-blue?logo=idea)
+![git](https://img.shields.io/badge/git-git-yellowgreen?logo=git)
+![git](https://img.shields.io/badge/GitLab-GitLab-yellow?logo=gitLab)
+
+<img src="https://github-readme-stats.vercel.app/api?username=MQ-0707&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 
-😄 你好~ 我是MQ，工作在上海。
-喜爱跑步，读书，爬山，户外，编程。
-项目大多和这些相关。
-
-
-你可以到我的[跑步网站](https://running-k6aflg0h2.vercel.app/)来玩， 📫 如果你想聊聊，可以给我[发邮件](lwcse35@gmail.com)。
-
-
-做你该做的事情,并接受事与愿违.
+### 做你该做的事情,并接受事与愿违.
 
 
 <!--

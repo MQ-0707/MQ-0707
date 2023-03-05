@@ -13,6 +13,10 @@ I'm Mickey, a back-end development.
 ![git](https://img.shields.io/badge/git-git-yellowgreen?logo=git)
 ![git](https://img.shields.io/badge/GitLab-GitLab-yellow?logo=gitLab)
 
+### My  Contributions
+
+![](https://raw.githubusercontent.com/MQ-0707/MQ-0707/main/assets/github-contribution-grid-snake.svg)
+
 <img src="https://github-readme-stats.vercel.app/api?username=MQ-0707&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 

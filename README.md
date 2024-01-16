@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 
-I'm Mickey, a back-end development.    
+I'm Mickey, residing and living in Wuhan.    
    
 - 🏃‍ I like running and cycling   
 - 🔭 I’m currently working on bank
